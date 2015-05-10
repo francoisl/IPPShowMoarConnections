@@ -1,5 +1,5 @@
 # IPPShowMoarConnections
-Adds an option on the Intuit Partner Platform app summary page to see all the connections of your app by default, instead of just 10.
+Adds an option on the Intuit Partner Platform app summary page to see all the connections of your app.
 
 ## Install
 
