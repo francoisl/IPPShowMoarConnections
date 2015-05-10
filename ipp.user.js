@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            IPP Show Moar Connections
 // @author          Francois Laithier
-// @description     In the Intuit Partner Platform app portal, show all your connections by default, instead of just 10.
+// @description     In the Intuit Partner Platform app portal, add an option to show all your connections.
 // @license         MIT License
 // @version         1.0.2
 // @include         https://developer.intuit.com/v2/ui#/connection/detailedreport*
