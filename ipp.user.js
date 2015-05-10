@@ -7,7 +7,7 @@
 // @include         https://developer.intuit.com/v2/ui#/connection/detailedreport*
 // ==/UserScript==
 
-/* globals console, angular */
+/* globals console  */
 
 window.addEventListener('load', fixConnectionsPagination, false);
 
